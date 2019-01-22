@@ -1,0 +1,7 @@
+{
+  "linkedProductInstanceReference" : "LPIR3211",
+  "accountRecoveryRestructuringSchedule" : "0 0 1 1 *",
+  "accountRecoveryCaseRestructuringTaskReference" : "ARRR3023",
+  "accountRecoveryCaseRestructuringTaskRecord" : {},
+  "accountRecoveryCaseReference" : "ARCR3303"
+}
